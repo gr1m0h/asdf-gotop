@@ -22,7 +22,7 @@ case "$(uname -s)" in
         DOWNLOAD_URL="https://github.com/xxxserxxx/gotop/releases/download/v${ASDF_INSTALL_VERSION}/gotop_v${ASDF_INSTALL_VERSION}_linux_ard64.tgz"
         ;;
       "x86_64")
-        DOWNLOAD_URL="https://github.com/xxxserxxx/gotop/releases/download/v${ASDF_INSTALL_VERSION}/gotop_v${ASDF_INSTALL_VERSION}_darwin_amd64.tgz"
+        DOWNLOAD_URL="https://github.com/xxxserxxx/gotop/releases/download/v${ASDF_INSTALL_VERSION}/gotop_v${ASDF_INSTALL_VERSION}_linux_amd64.tgz"
         ;;
     esac
     ;;
